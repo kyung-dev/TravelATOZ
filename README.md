@@ -1,4 +1,4 @@
-# TravelATOZ
+# TravelAtoZ
 travel planner app with react-native
 
 - 직관적이고 간단하게 여행계획을 등록합니다.
